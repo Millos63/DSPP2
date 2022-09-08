@@ -14,5 +14,10 @@ namespace P01Repaso
             Console.WriteLine("Yo ladro");
         }
 
+        //Crear constructor para la subclase perro que reciba el parámetro del nombre
+        public CPerro(String nombrePerro):base(nombrePerro)
+        {
+
+        }
     }
 }

@@ -17,5 +17,24 @@ namespace P01Repaso
         {
 
         }
+
+        //Creamos un campo de la clase de tipo string para almacenar el nombre del ser vivo 
+        private string nombreSerVivo;
+
+        //Constructor Explicito
+        public CMamifero(string nombre)
+        {
+            nombreSerVivo = nombre;
+        }
+
+
+        //Cree un metodo getNombre, para que escriba en nombreSerVivo
+        public void getNombre()
+        {
+            Console.WriteLine("Nombre del sere vivo", nombreSerVivo);
+        }
+
+
+
     }
 }

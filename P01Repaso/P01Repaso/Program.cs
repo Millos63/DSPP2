@@ -13,13 +13,15 @@ namespace P01Repaso
             //Instancias de cada una de las clases
 
             //Instancia de la clase CHumano
-            CHumano miHumano = new CHumano();
+            CHumano miHumano = new CHumano("Emigdio");
             
             //Instancia de la clase CPerro
-            CPerro miPerro = new CPerro();
+            CPerro miPerro = new CPerro("Manchas");
 
             //Instancia de la clase CChango
-            CChango miChango = new CChango();
+            CChango miChango = new CChango("Marango");
+
+            
 
 
 

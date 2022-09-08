@@ -12,5 +12,12 @@ namespace P01Repaso
         {
             Console.WriteLine("Yo trepo");
         }
+
+        //Constructor para CChango
+        public CChango(String nombreChango) : base(nombreChango)
+        {
+
+        }
+
     }
 }

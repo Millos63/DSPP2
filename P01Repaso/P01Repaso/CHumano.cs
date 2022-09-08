@@ -13,5 +13,10 @@ namespace P01Repaso
             Console.WriteLine("Yo pienso");
         }
 
+        //Constructor para CHumano
+        public CHumano(String nombreHumano):base(nombreHumano)
+        {
+
+        }
     }
 }
