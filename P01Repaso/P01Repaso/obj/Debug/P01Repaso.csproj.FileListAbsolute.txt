@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\UMAD 2\DSPP2\P01Repaso\P01Repaso\bin\Debug\P01Repaso.exe.config
+C:\Users\Admin\Documents\UMAD 2\DSPP2\P01Repaso\P01Repaso\bin\Debug\P01Repaso.exe
+C:\Users\Admin\Documents\UMAD 2\DSPP2\P01Repaso\P01Repaso\bin\Debug\P01Repaso.pdb
+C:\Users\Admin\Documents\UMAD 2\DSPP2\P01Repaso\P01Repaso\obj\Debug\P01Repaso.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\P01Repaso\P01Repaso\obj\Debug\P01Repaso.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\P01Repaso\P01Repaso\obj\Debug\P01Repaso.exe
+C:\Users\Admin\Documents\UMAD 2\DSPP2\P01Repaso\P01Repaso\obj\Debug\P01Repaso.pdb

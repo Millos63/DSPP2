@@ -8,7 +8,8 @@ namespace P01Repaso
 {
     internal class CHumano : CMamifero 
     {
-        public void pensar()
+        //Con la palabra new, ocultamos el de la clase padre, osea mamifero y ocupamos el de la clase CHumano.
+        new public void pensar()
         {
             Console.WriteLine("Yo pienso");
         }

@@ -31,9 +31,14 @@ namespace P01Repaso
         //Cree un metodo getNombre, para que escriba en nombreSerVivo
         public void getNombre()
         {
-            Console.WriteLine("Nombre del sere vivo", nombreSerVivo);
+            Console.WriteLine("Nombre del sere vivo {0}", nombreSerVivo);
         }
 
+        //Creamos metodo pensar
+        public void pensar()
+        {
+            Console.WriteLine("Soy un ser pensante");
+        }
 
 
     }

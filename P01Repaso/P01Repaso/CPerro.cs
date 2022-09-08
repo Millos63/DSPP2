@@ -19,5 +19,10 @@ namespace P01Repaso
         {
 
         }
+
+        new public void pensar()
+        {
+            Console.WriteLine("Pensamiento instintivo avanzado");
+        }
     }
 }
