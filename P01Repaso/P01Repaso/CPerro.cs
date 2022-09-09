@@ -20,9 +20,12 @@ namespace P01Repaso
 
         }
 
-        new public void pensar()
+        public override void pensar()
         {
             Console.WriteLine("Pensamiento instintivo avanzado");
         }
+
+        
+        
     }
 }

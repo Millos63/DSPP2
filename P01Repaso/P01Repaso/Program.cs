@@ -21,6 +21,8 @@ namespace P01Repaso
             //Instancia de la clase CChango
             CChango miChango = new CChango("Marango");
 
+            //Instancia de la clase CMamifero
+            CMamifero miMamifero = new CMamifero("Chango");
 
             //Para mandar a llamar getNombre
             miHumano.getNombre();
@@ -34,6 +36,14 @@ namespace P01Repaso
             arregloAnimales[2] = miChango;
 
             arregloAnimales[1].pensar();
+            Console.WriteLine("---------------");
+
+            for (int i = 0; i < 3 ; i++)
+            {
+                arregloAnimales[i].pensar();
+            }
+
+            
 
 
 

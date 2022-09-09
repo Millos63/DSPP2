@@ -10,7 +10,7 @@ namespace P01Repaso
     {
         protected void respirar()
         {
-
+            Console.WriteLine("Tengo la capacidad de respirar");
         }
 
         public void cuidarDescendencia()
@@ -35,7 +35,7 @@ namespace P01Repaso
         }
 
         //Creamos metodo pensar
-        public void pensar()
+        public virtual void pensar()
         {
             Console.WriteLine("Soy un ser pensante");
         }
