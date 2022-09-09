@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace PrimerParcialDSPP2
 {
-    internal class Program
+    internal class CRock
     {
-        static void Main(string[] args)
-        {
-
-        }
+        public 
     }
 }

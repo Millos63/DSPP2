@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CCumbia.cs" />
+    <Compile Include="CMusica.cs" />
+    <Compile Include="CPop.cs" />
+    <Compile Include="CRock.cs" />
+    <Compile Include="CSalsa.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace PrimerParcialDSPP2
 {
-    internal class Program
+    internal class CPop
     {
-        static void Main(string[] args)
-        {
-
-        }
     }
 }
