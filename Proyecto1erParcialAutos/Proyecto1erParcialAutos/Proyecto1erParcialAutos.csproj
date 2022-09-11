@@ -47,6 +47,7 @@
     <Compile Include="CClasico.cs" />
     <Compile Include="CDeportivo.cs" />
     <Compile Include="CFamiliar.cs" />
+    <Compile Include="CSedan.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
