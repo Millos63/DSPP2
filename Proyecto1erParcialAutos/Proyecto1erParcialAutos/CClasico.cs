@@ -6,7 +6,21 @@ using System.Threading.Tasks;
 
 namespace Proyecto1erParcialAutos
 {
-    internal class CClasico
+    internal class CClasico : CAuto
     {
+        public void mecanicaFacil()
+        {
+            Console.WriteLine("Soy un auto más fácil de reparar, ya que mi motor no es tan complejo");
+        }
+
+        public CClasico(string nombreClasico) : base(nombreClasico)
+        {
+
+        }
+
+        public override void caracteristicas()
+        {
+            Console.WriteLine("Soy un auto con mucha clase y elegancia.");
+        }
     }
 }

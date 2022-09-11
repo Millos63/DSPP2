@@ -12,6 +12,9 @@ namespace Proyecto1erParcialAutos
         {
             Console.WriteLine("BEST-CAR");
             Console.WriteLine("Bienvenido a BEST-CAR la aplicación que te ayudara a elegir un auto según tus necesidades");
+            Console.WriteLine("Qué categoria de autos le gustaria ver? 1.Deportivos, 2.Clasicos, 3.Comfortables");
+            
+
 
         }
     }
