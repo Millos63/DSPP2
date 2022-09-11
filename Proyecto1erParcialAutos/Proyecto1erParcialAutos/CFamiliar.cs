@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace Proyecto1erParcialAutos
 {
-    internal class CComfortable : CAuto
+    internal class CFamiliar : CAuto
     {
         public void espacio()
         {
             Console.WriteLine("Soy un coche con mucho espacio");
         }
 
-        public CComfortable(string nombreDeportivo) : base(nombreDeportivo)
+        public CFamiliar(string nombreFamiliar) : base(nombreFamiliar)
         {
 
         }
