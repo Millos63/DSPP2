@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Proyecto1erParcialAutos
 {
+    //Esta sera la superclase
     internal class CAuto
     {
+        
     }
 }

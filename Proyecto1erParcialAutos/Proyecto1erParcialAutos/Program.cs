@@ -10,6 +10,9 @@ namespace Proyecto1erParcialAutos
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("BEST-CAR");
+            Console.WriteLine("Bienvenido a BEST-CAR la aplicación que te ayudara a elegir un auto según tus necesidades");
+
         }
     }
 }

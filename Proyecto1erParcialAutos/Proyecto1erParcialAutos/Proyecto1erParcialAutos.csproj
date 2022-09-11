@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CAuto.cs" />
+    <Compile Include="CClasico.cs" />
+    <Compile Include="CComfortable.cs" />
+    <Compile Include="CDeportivo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
