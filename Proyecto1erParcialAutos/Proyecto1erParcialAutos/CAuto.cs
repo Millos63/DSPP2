@@ -13,7 +13,7 @@ namespace Proyecto1erParcialAutos
         private string nombreAuto;
         public void neumaticos()
         {
-            Console.WriteLine("Tengo cuatro neumaticos");
+            Console.WriteLine("Tiene cuatro neumaticos");
         }
 
         public void motor()
@@ -29,7 +29,7 @@ namespace Proyecto1erParcialAutos
 
         public void getNombre()
         {
-            Console.WriteLine("Nombre del vehiculo {0}", nombreAuto);
+            Console.WriteLine("Ejemplo de este vehiculo: {0}", nombreAuto);
 
         }
 

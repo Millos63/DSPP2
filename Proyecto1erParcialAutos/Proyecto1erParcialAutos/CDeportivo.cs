@@ -20,7 +20,7 @@ namespace Proyecto1erParcialAutos
 
         public override void caracteristicas()
         {
-            Console.WriteLine("Es un auto muy veloz, y llamativo");
+            Console.WriteLine("Deportivo:Son autos muy velozes, llamativos y muy caros.");
         }
     }
 }

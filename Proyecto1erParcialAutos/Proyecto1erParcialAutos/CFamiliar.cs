@@ -20,7 +20,7 @@ namespace Proyecto1erParcialAutos
 
         public override void caracteristicas()
         {
-            Console.WriteLine("Soy un auto muy comodo, familiar, por lo regular me utilizan para llevar a toda la familia y para viajes largos ");
+            Console.WriteLine("Familiar: Soy un auto muy comodo, para viajes largos con toda la familia");
         }
     }
 }

@@ -20,7 +20,7 @@ namespace Proyecto1erParcialAutos
 
         public override void caracteristicas()
         {
-            Console.WriteLine("Son la perfecta combinación entre comodidad, seguridad y deportivismo, es la combinación entre un auto familiar y un auto deportivo. Suelen ahorrar mas combustible que el resto");
+            Console.WriteLine("Sedan: Son la perfecta combinación entre comodidad, seguridad y deportivismo");
         }
     }
 }

@@ -20,7 +20,7 @@ namespace Proyecto1erParcialAutos
 
         public override void caracteristicas()
         {
-            Console.WriteLine("Soy un auto con mucha clase y elegancia.");
+            Console.WriteLine("Clasico: Soy un auto con mucha clase y elegancia. Suelo ser un auto de colección");
         }
     }
 }
