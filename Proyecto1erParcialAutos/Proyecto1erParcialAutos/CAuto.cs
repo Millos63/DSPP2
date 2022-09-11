@@ -18,7 +18,7 @@ namespace Proyecto1erParcialAutos
 
         public void motor()
         {
-            Console.WriteLine("Tengo motor");
+            Console.WriteLine("Tiene motor");
         }
 
         //Constructor explicito
@@ -29,7 +29,7 @@ namespace Proyecto1erParcialAutos
 
         public void getNombre()
         {
-            Console.WriteLine("Ejemplo de este vehiculo: {0}", nombreAuto);
+            Console.WriteLine("Ejemplo: {0}", nombreAuto);
 
         }
 

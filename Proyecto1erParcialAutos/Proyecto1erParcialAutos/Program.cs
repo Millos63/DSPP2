@@ -17,10 +17,10 @@ namespace Proyecto1erParcialAutos
             Console.WriteLine("BEST-CAR");
             Console.WriteLine("Bienvenido a BEST-CAR la aplicación que te ayudara a elegir un auto según tus necesidades");
 
-            while (opc!=7)
+            while (opc!=6)
             {
                 
-                Console.WriteLine("\r\nQué categoria de auto le gustaria ver? 1.Deportivos, 2.Clasicos, 3.Familiares, 4.Sedanes, 5.Enlistar todos, 6.Caracteristicas comunes, 7.Salir");
+                Console.WriteLine("\r\nQué categoria de auto le gustaria ver? 1.Deportivos, 2.Clasicos, 3.Familiares, 4.Sedanes, 5.Enlistar todos, 6.Salir");
                 leer = Console.ReadLine();
                 opc = Convert.ToInt32(leer);
 
@@ -41,24 +41,37 @@ namespace Proyecto1erParcialAutos
                 {
                     arregloCoches[0].caracteristicas();
                     arregloCoches[0].getNombre();
+                    arregloCoches[0].motor();
+                    arregloCoches[0].neumaticos();
+                    miDeportivo.frenadoABS();
+                    
                 }
 
                 if (opc == 2)
                 {
                     arregloCoches[1].caracteristicas();
                     arregloCoches[1].getNombre();
+                    arregloCoches[1].motor();
+                    arregloCoches[1].neumaticos();
+                    miClasico.mecanicaFacil();
                 }
 
                 if (opc == 3)
                 {
                     arregloCoches[2].caracteristicas();
                     arregloCoches[2].getNombre();
+                    arregloCoches[2].motor();
+                    arregloCoches[2].neumaticos();
+                    miFamiliar.espacio();
                 }
 
                 if (opc == 4)
                 {
                     arregloCoches[3].caracteristicas();
                     arregloCoches[3].getNombre();
+                    arregloCoches[3].motor();
+                    arregloCoches[3].neumaticos();
+                    miSedan.estable();
                 }
                 if (opc == 5)
                 {
@@ -66,6 +79,9 @@ namespace Proyecto1erParcialAutos
                     {
                         arregloCoches[i].caracteristicas();
                         arregloCoches[i].getNombre();
+                        arregloCoches[i].motor();
+                        arregloCoches[i].neumaticos();
+                        Console.WriteLine("\n\r");
                     }
                    
                 }

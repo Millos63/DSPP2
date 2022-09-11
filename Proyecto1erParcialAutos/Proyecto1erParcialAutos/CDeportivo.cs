@@ -10,7 +10,7 @@ namespace Proyecto1erParcialAutos
     {
         public void frenadoABS()
         {
-            Console.WriteLine("Tengo frenado ABS para poder detener el auto a mucha velocidad");
+            Console.WriteLine("Tengo frenado ABS para poder detener el auto a gran velocidad");
         }   
 
         public CDeportivo(string nombreDeportivo):base(nombreDeportivo)
