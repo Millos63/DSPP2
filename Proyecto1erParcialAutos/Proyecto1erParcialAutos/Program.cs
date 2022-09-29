@@ -44,6 +44,14 @@ namespace Proyecto1erParcialAutos
                     arregloCoches[0].motor();
                     arregloCoches[0].neumaticos();
                     miDeportivo.frenadoABS();
+                    Console.WriteLine("Caballos de fuerza: " + miDeportivo.CaballosDeFuerza());
+                    Console.WriteLine("KM/H: " + miDeportivo.KilometrosPorHora());
+                    Console.WriteLine("Transmisión: " + miDeportivo.Transmision());
+                    if(miDeportivo.EsTiptronic() == true)
+                        Console.WriteLine("El auto cuenta con caja Tiptronic");
+                    else
+                        Console.WriteLine("El auto no cuenta con caja Tipronic");
+                        
                     
                 }
 
@@ -54,6 +62,13 @@ namespace Proyecto1erParcialAutos
                     arregloCoches[1].motor();
                     arregloCoches[1].neumaticos();
                     miClasico.mecanicaFacil();
+                    Console.WriteLine("Caballos de fuerza: " + miClasico.CaballosDeFuerza());
+                    Console.WriteLine("KM/H: " + miClasico.KilometrosPorHora());
+                    Console.WriteLine("Transmisión: " + miClasico.Transmision());
+                    if (miClasico.EsTiptronic() == true)
+                        Console.WriteLine("El auto cuenta con caja Tiptronic");
+                    else
+                        Console.WriteLine("El auto no cuenta con caja Tipronic");
                 }
 
                 if (opc == 3)
@@ -63,6 +78,13 @@ namespace Proyecto1erParcialAutos
                     arregloCoches[2].motor();
                     arregloCoches[2].neumaticos();
                     miFamiliar.espacio();
+                    Console.WriteLine("Caballos de fuerza: " + miFamiliar.CaballosDeFuerza());
+                    Console.WriteLine("KM/H: " + miFamiliar.KilometrosPorHora());
+                    Console.WriteLine("Transmisión: " + miFamiliar.Transmision());
+                    if (miFamiliar.EsTiptronic() == true)
+                        Console.WriteLine("El auto cuenta con caja Tiptronic");
+                    else
+                        Console.WriteLine("El auto no cuenta con caja Tipronic");
                 }
 
                 if (opc == 4)
@@ -72,6 +94,13 @@ namespace Proyecto1erParcialAutos
                     arregloCoches[3].motor();
                     arregloCoches[3].neumaticos();
                     miSedan.estable();
+                    Console.WriteLine("Caballos de fuerza: " + miSedan.CaballosDeFuerza());
+                    Console.WriteLine("KM/H: " + miSedan.KilometrosPorHora());
+                    Console.WriteLine("Transmisión: " + miSedan.Transmision());
+                    if (miSedan.EsTiptronic() == true)
+                        Console.WriteLine("El auto cuenta con caja Tiptronic");
+                    else
+                        Console.WriteLine("El auto no cuenta con caja Tipronic");
                 }
                 if (opc == 5)
                 {

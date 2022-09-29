@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace P01Repaso
 {
-    internal class CPerro : CMamifero
+    internal class CPerro : CMamifero, IMamiferosTerrestres
     {
 
         public void ladrar()
@@ -25,6 +25,10 @@ namespace P01Repaso
             Console.WriteLine("Pensamiento instintivo avanzado");
         }
 
+        public int NumeroPatas()
+        {
+            return 4;
+        }
         
         
     }

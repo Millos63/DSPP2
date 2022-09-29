@@ -24,10 +24,18 @@ namespace P01Repaso
             //Instancia de la clase CMamifero
             CMamifero miMamifero = new CMamifero("Chango");
 
+            //instancia de la clase CCaballo
+            //Creamos un objeto de CCaballo llamado miCaballo
+
+            CCaballo miCaballo = new CCaballo("vayita");
+
             //Para mandar a llamar getNombre
             miHumano.getNombre();
             miPerro.getNombre();
             miChango.getNombre();
+
+            IMamiferosTerrestres IMiCa = miCaballo;
+            IMamiferosTerrestres IMiCa2 = miCaballo; 
 
             //arreglo con 3 elementos "Program"
             CMamifero[] arregloAnimales = new CMamifero[3];
@@ -43,8 +51,11 @@ namespace P01Repaso
                 arregloAnimales[i].pensar();
             }
 
-            
+            CBallena miBallena = new CBallena("Mobidic");
+            miBallena.nadar();
 
+            Console.WriteLine("Numero de patas de pinto: " + IMiCa.NumeroPatas());
+            Console.WriteLine("El caballo se utiliza en el deporte: "+ miCaballo.TipoDeporte());
 
 
 

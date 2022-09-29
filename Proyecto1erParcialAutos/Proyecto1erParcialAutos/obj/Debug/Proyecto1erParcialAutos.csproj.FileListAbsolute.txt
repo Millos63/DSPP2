@@ -4,4 +4,5 @@ C:\Users\Admin\Documents\UMAD 2\DSPP2\Proyecto1erParcialAutos\Proyecto1erParcial
 C:\Users\Admin\Documents\UMAD 2\DSPP2\Proyecto1erParcialAutos\Proyecto1erParcialAutos\obj\Debug\Proyecto1erParcialAutos.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Documents\UMAD 2\DSPP2\Proyecto1erParcialAutos\Proyecto1erParcialAutos\obj\Debug\Proyecto1erParcialAutos.exe
 C:\Users\Admin\Documents\UMAD 2\DSPP2\Proyecto1erParcialAutos\Proyecto1erParcialAutos\obj\Debug\Proyecto1erParcialAutos.pdb
-C:\Users\Admin\Documents\UMAD 2\DSPP2\Proyecto1erParcialAutos\Proyecto1erParcialAutos\obj\Debug\Proyecto1erParcialAutos.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Proyecto1erParcialAutos\Proyecto1erParcialAutos\obj\Debug\Proyecto1erParcialAutos.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Proyecto1erParcialAutos\Proyecto1erParcialAutos\obj\Debug\Proyecto1erParcialAutos.csproj.SuggestedBindingRedirects.cache

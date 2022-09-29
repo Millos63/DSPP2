@@ -43,10 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CBallena.cs" />
+    <Compile Include="CCaballo.cs" />
     <Compile Include="CChango.cs" />
     <Compile Include="CHumano.cs" />
     <Compile Include="CMamifero.cs" />
     <Compile Include="CPerro.cs" />
+    <Compile Include="IAnimalesEnDeportes.cs" />
+    <Compile Include="IMamiferosTerrestres.cs" />
+    <Compile Include="ISaltoConPatas.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

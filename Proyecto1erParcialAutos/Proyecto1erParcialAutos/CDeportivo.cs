@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Proyecto1erParcialAutos
 {
-    internal class CDeportivo : CAuto
+    internal class CDeportivo : CAuto, IVelocidad, ITransmision
     {
         public void frenadoABS()
         {
@@ -20,7 +20,36 @@ namespace Proyecto1erParcialAutos
 
         public override void caracteristicas()
         {
-            Console.WriteLine("Deportivo:Son autos muy velozes, llamativos y muy caros.");
+            Console.WriteLine("Deportivo:Son autos muy veloces, llamativos y muy caros.");
         }
+
+
+
+        //Metodo que implementa la interfaz IVelocidad
+        public int CaballosDeFuerza()
+        {
+            return 500;
+        }
+
+        //Metodo que implementa la interfaz IVelocidad
+        public int KilometrosPorHora()
+        {
+            return 400; 
+        }
+
+        //Metodo que implementa la interfaz ITransmision
+        public string Transmision()
+        {
+            return "Automatica";
+        }
+        
+        //Metodo que implementa la interfaz ITransmision
+        public Boolean EsTiptronic()
+        {
+            return true;
+        }
+
+
+       
     }
 }
