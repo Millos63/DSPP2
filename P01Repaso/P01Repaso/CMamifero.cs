@@ -6,12 +6,8 @@ using System.Threading.Tasks;
 
 namespace P01Repaso
 {
-    internal class CMamifero
+    internal class CMamifero : CAAnimales
     {
-        protected void respirar()
-        {
-            Console.WriteLine("Tengo la capacidad de respirar");
-        }
 
         public void cuidarDescendencia()
         {
@@ -29,9 +25,9 @@ namespace P01Repaso
 
 
         //Cree un metodo getNombre, para que escriba en nombreSerVivo
-        public void getNombre()
+        public override void getNombre()
         {
-            Console.WriteLine("Nombre del sere vivo {0}", nombreSerVivo);
+            Console.WriteLine("Nombre del mamifero es {0}", nombreSerVivo);
         }
 
         //Creamos metodo pensar

@@ -43,10 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CAAnimales.cs" />
     <Compile Include="CBallena.cs" />
     <Compile Include="CCaballo.cs" />
     <Compile Include="CChango.cs" />
     <Compile Include="CHumano.cs" />
+    <Compile Include="CLagartija.cs" />
     <Compile Include="CMamifero.cs" />
     <Compile Include="CPerro.cs" />
     <Compile Include="IAnimalesEnDeportes.cs" />

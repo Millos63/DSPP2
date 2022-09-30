@@ -57,8 +57,19 @@ namespace P01Repaso
             Console.WriteLine("Numero de patas de pinto: " + IMiCa.NumeroPatas());
             Console.WriteLine("El caballo se utiliza en el deporte: "+ miCaballo.TipoDeporte());
 
+            //////////////
+            ///
 
+            //Creamos objeto de la clase CLagartija
 
+            CLagartija miLagartija = new CLagartija("Tija");
+            CPerro miPerro2 = new CPerro("Manchas");
+            miLagartija.getNombre();
+            miPerro2.getNombre();
+
+           
+
+            
         }
     }
 }
