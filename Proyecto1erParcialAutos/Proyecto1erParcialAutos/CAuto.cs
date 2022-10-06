@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Proyecto1erParcialAutos
 {
     //Esta sera la superclase
-    internal class CAuto
+    internal class CAuto : CATipoTransporte
     {
 
         private string nombreAuto;
@@ -16,10 +16,7 @@ namespace Proyecto1erParcialAutos
             Console.WriteLine("Tiene cuatro neumaticos");
         }
 
-        public void motor()
-        {
-            Console.WriteLine("Tiene motor");
-        }
+        
 
         //Constructor explicito
         public CAuto(string nombre)
@@ -27,7 +24,7 @@ namespace Proyecto1erParcialAutos
             nombreAuto = nombre; 
         }
 
-        public void getNombre()
+        public override void getNombre()
         {
             Console.WriteLine("Ejemplo: {0}", nombreAuto);
 

@@ -17,10 +17,10 @@ namespace Proyecto1erParcialAutos
             Console.WriteLine("BEST-CAR");
             Console.WriteLine("Bienvenido a BEST-CAR la aplicación que te ayudara a elegir un auto según tus necesidades");
 
-            while (opc!=6)
+            while (opc!=7)
             {
                 
-                Console.WriteLine("\r\nQué categoria de auto le gustaria ver? 1.Deportivos, 2.Clasicos, 3.Familiares, 4.Sedanes, 5.Enlistar todos, 6.Salir");
+                Console.WriteLine("\r\nQué categoria de auto le gustaria ver? 1.Deportivos, 2.Clasicos, 3.Familiares, 4.Sedanes, 5.Enlistar todos, 6.Ver avion, 7. Salir");
                 leer = Console.ReadLine();
                 opc = Convert.ToInt32(leer);
 
@@ -112,7 +112,13 @@ namespace Proyecto1erParcialAutos
                         arregloCoches[i].neumaticos();
                         Console.WriteLine("\n\r");
                     }
-                   
+                }
+
+                if (opc == 6)
+                {
+                    CAvion miAvion = new CAvion("Boeing 747");
+                    miAvion.getNombre();
+                    miAvion.motor();
                 }
 
             }

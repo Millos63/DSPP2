@@ -43,7 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CATipoTransporte.cs" />
     <Compile Include="CAuto.cs" />
+    <Compile Include="CAvion.cs" />
     <Compile Include="CClasico.cs" />
     <Compile Include="CDeportivo.cs" />
     <Compile Include="CFamiliar.cs" />
