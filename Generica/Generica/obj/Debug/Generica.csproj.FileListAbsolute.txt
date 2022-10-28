@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Generica\Generica\bin\Debug\Generica.exe.config
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Generica\Generica\bin\Debug\Generica.exe
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Generica\Generica\bin\Debug\Generica.pdb
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Generica\Generica\obj\Debug\Generica.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Generica\Generica\obj\Debug\Generica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Generica\Generica\obj\Debug\Generica.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Generica\Generica\obj\Debug\Generica.exe
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Generica\Generica\obj\Debug\Generica.pdb
