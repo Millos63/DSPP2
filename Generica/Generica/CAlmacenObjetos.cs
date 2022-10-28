@@ -6,22 +6,22 @@ using System.Threading.Tasks;
 
 namespace Generica
 {
-    internal class CAlmacenObjeto
+    internal class CAlmacenObjetos<T>
     {
-        private object[] datoElementos;
+        private T [] datoElementos;
         private int i = 0;
-        public CAlmacenObjeto(int z)
+        public CAlmacenObjetos(int z)
         {
-            datoElementos = new object[z];
+            datoElementos = new T [z];
         }
 
-        public void agregar(object obj)
+        public void agregar(T obj)
         {
             datoElementos[i] = obj;
             i++;    
         }
 
-        public object getElemento(int i)
+        public T getElementos(int i)
         {
             return datoElementos[i];
         }

@@ -11,16 +11,16 @@ namespace Generica
         static void Main(string[] args)
         {
             //Instanciamos la clase
-            CAlmacenObjeto info = new CAlmacenObjeto(3);
+            CAlmacenObjetos <string> info = new CAlmacenObjetos<string>(3);
 
-            //info.agregar("Lety");
-            //info.agregar("Diego");
-            //info.agregar("Karla");
+            info.agregar("Lety");
+            info.agregar("Diego");
+            info.agregar("Karla");
 
 
-            info.agregar(new CEmpleado(3000));
-            info.agregar(new CEmpleado(4000));
-            info.agregar(new CEmpleado(5000));
+            //info.agregar(new CEmpleado(3000));
+            //info.agregar(new CEmpleado(4000));
+            //info.agregar(new CEmpleado(5000));
 
 
 
@@ -30,9 +30,11 @@ namespace Generica
 
             //Console.WriteLine(nombrePersona);
 
-            CEmpleado salarioEmpleado = (CEmpleado)info.getElemento(2);
-            Console.WriteLine(salarioEmpleado.getSalario());
+            String salarioEmpleado = info.getElementos(2);
+            Console.WriteLine(salarioEmpleado);
 
+
+            //Esta es la otra version
         }   
     }
 }
