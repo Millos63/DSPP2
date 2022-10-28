@@ -1,0 +1,16 @@
+C:\Users\sixmi\Desktop\5toSemestre umad\DSPPII\DSPPII\Estructuras\bin\Debug\Estructuras.exe.config
+C:\Users\sixmi\Desktop\5toSemestre umad\DSPPII\DSPPII\Estructuras\bin\Debug\Estructuras.exe
+C:\Users\sixmi\Desktop\5toSemestre umad\DSPPII\DSPPII\Estructuras\bin\Debug\Estructuras.pdb
+C:\Users\sixmi\Desktop\5toSemestre umad\DSPPII\DSPPII\Estructuras\obj\Debug\Estructuras.csproj.AssemblyReference.cache
+C:\Users\sixmi\Desktop\5toSemestre umad\DSPPII\DSPPII\Estructuras\obj\Debug\Estructuras.csproj.SuggestedBindingRedirects.cache
+C:\Users\sixmi\Desktop\5toSemestre umad\DSPPII\DSPPII\Estructuras\obj\Debug\Estructuras.csproj.CoreCompileInputs.cache
+C:\Users\sixmi\Desktop\5toSemestre umad\DSPPII\DSPPII\Estructuras\obj\Debug\Estructuras.exe
+C:\Users\sixmi\Desktop\5toSemestre umad\DSPPII\DSPPII\Estructuras\obj\Debug\Estructuras.pdb
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Enumerado\Estructuras\bin\Debug\Estructuras.exe.config
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Enumerado\Estructuras\bin\Debug\Estructuras.exe
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Enumerado\Estructuras\bin\Debug\Estructuras.pdb
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Enumerado\Estructuras\obj\Debug\Estructuras.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Enumerado\Estructuras\obj\Debug\Estructuras.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Enumerado\Estructuras\obj\Debug\Estructuras.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Enumerado\Estructuras\obj\Debug\Estructuras.exe
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Enumerado\Estructuras\obj\Debug\Estructuras.pdb

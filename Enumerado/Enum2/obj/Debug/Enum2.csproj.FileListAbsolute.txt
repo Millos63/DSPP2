@@ -1,0 +1,16 @@
+C:\Users\sixmi\Desktop\5toSemestre umad\DSPPII\DSPPII\Enum2\bin\Debug\Enum2.exe.config
+C:\Users\sixmi\Desktop\5toSemestre umad\DSPPII\DSPPII\Enum2\bin\Debug\Enum2.exe
+C:\Users\sixmi\Desktop\5toSemestre umad\DSPPII\DSPPII\Enum2\bin\Debug\Enum2.pdb
+C:\Users\sixmi\Desktop\5toSemestre umad\DSPPII\DSPPII\Enum2\obj\Debug\Enum2.csproj.AssemblyReference.cache
+C:\Users\sixmi\Desktop\5toSemestre umad\DSPPII\DSPPII\Enum2\obj\Debug\Enum2.csproj.SuggestedBindingRedirects.cache
+C:\Users\sixmi\Desktop\5toSemestre umad\DSPPII\DSPPII\Enum2\obj\Debug\Enum2.csproj.CoreCompileInputs.cache
+C:\Users\sixmi\Desktop\5toSemestre umad\DSPPII\DSPPII\Enum2\obj\Debug\Enum2.exe
+C:\Users\sixmi\Desktop\5toSemestre umad\DSPPII\DSPPII\Enum2\obj\Debug\Enum2.pdb
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Enumerado\Enum2\bin\Debug\Enum2.exe.config
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Enumerado\Enum2\bin\Debug\Enum2.exe
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Enumerado\Enum2\bin\Debug\Enum2.pdb
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Enumerado\Enum2\obj\Debug\Enum2.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Enumerado\Enum2\obj\Debug\Enum2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Enumerado\Enum2\obj\Debug\Enum2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Enumerado\Enum2\obj\Debug\Enum2.exe
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Enumerado\Enum2\obj\Debug\Enum2.pdb

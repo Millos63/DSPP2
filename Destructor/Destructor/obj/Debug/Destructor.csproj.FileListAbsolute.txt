@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Destructor\Destructor\bin\Debug\Destructor.exe.config
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Destructor\Destructor\bin\Debug\Destructor.exe
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Destructor\Destructor\bin\Debug\Destructor.pdb
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Destructor\Destructor\obj\Debug\Destructor.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Destructor\Destructor\obj\Debug\Destructor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Destructor\Destructor\obj\Debug\Destructor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Destructor\Destructor\obj\Debug\Destructor.exe
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Destructor\Destructor\obj\Debug\Destructor.pdb

@@ -1,0 +1,8 @@
+C:\Users\Admin\Documents\UMAD 2\DSPP2\EstructYEnum\EstructYEnum\bin\Debug\EstructYEnum.exe.config
+C:\Users\Admin\Documents\UMAD 2\DSPP2\EstructYEnum\EstructYEnum\bin\Debug\EstructYEnum.exe
+C:\Users\Admin\Documents\UMAD 2\DSPP2\EstructYEnum\EstructYEnum\bin\Debug\EstructYEnum.pdb
+C:\Users\Admin\Documents\UMAD 2\DSPP2\EstructYEnum\EstructYEnum\obj\Debug\EstructYEnum.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\EstructYEnum\EstructYEnum\obj\Debug\EstructYEnum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\EstructYEnum\EstructYEnum\obj\Debug\EstructYEnum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\EstructYEnum\EstructYEnum\obj\Debug\EstructYEnum.exe
+C:\Users\Admin\Documents\UMAD 2\DSPP2\EstructYEnum\EstructYEnum\obj\Debug\EstructYEnum.pdb

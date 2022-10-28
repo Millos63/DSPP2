@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\UMAD 2\DSPP2\P02Repaso\P02Repaso\bin\Debug\netcoreapp3.1\P02Repaso.exe
+C:\Users\Admin\Documents\UMAD 2\DSPP2\P02Repaso\P02Repaso\bin\Debug\netcoreapp3.1\P02Repaso.deps.json
+C:\Users\Admin\Documents\UMAD 2\DSPP2\P02Repaso\P02Repaso\bin\Debug\netcoreapp3.1\P02Repaso.runtimeconfig.json
+C:\Users\Admin\Documents\UMAD 2\DSPP2\P02Repaso\P02Repaso\bin\Debug\netcoreapp3.1\P02Repaso.runtimeconfig.dev.json
+C:\Users\Admin\Documents\UMAD 2\DSPP2\P02Repaso\P02Repaso\bin\Debug\netcoreapp3.1\P02Repaso.dll
+C:\Users\Admin\Documents\UMAD 2\DSPP2\P02Repaso\P02Repaso\bin\Debug\netcoreapp3.1\P02Repaso.pdb
+C:\Users\Admin\Documents\UMAD 2\DSPP2\P02Repaso\P02Repaso\obj\Debug\netcoreapp3.1\P02Repaso.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\P02Repaso\P02Repaso\obj\Debug\netcoreapp3.1\P02Repaso.AssemblyInfo.cs
+C:\Users\Admin\Documents\UMAD 2\DSPP2\P02Repaso\P02Repaso\obj\Debug\netcoreapp3.1\P02Repaso.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\P02Repaso\P02Repaso\obj\Debug\netcoreapp3.1\P02Repaso.dll
+C:\Users\Admin\Documents\UMAD 2\DSPP2\P02Repaso\P02Repaso\obj\Debug\netcoreapp3.1\P02Repaso.pdb
+C:\Users\Admin\Documents\UMAD 2\DSPP2\P02Repaso\P02Repaso\obj\Debug\netcoreapp3.1\P02Repaso.genruntimeconfig.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\P02Repaso\P02Repaso\obj\Debug\netcoreapp3.1\P02Repaso.csprojAssemblyReference.cache
