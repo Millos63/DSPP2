@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\UMAD 2\DSPP2\PracticaGenericoRestricciones\PracticaGenericoRestricciones\bin\Debug\netcoreapp3.1\PracticaGenericoRestricciones.exe
+C:\Users\Admin\Documents\UMAD 2\DSPP2\PracticaGenericoRestricciones\PracticaGenericoRestricciones\bin\Debug\netcoreapp3.1\PracticaGenericoRestricciones.deps.json
+C:\Users\Admin\Documents\UMAD 2\DSPP2\PracticaGenericoRestricciones\PracticaGenericoRestricciones\bin\Debug\netcoreapp3.1\PracticaGenericoRestricciones.runtimeconfig.json
+C:\Users\Admin\Documents\UMAD 2\DSPP2\PracticaGenericoRestricciones\PracticaGenericoRestricciones\bin\Debug\netcoreapp3.1\PracticaGenericoRestricciones.runtimeconfig.dev.json
+C:\Users\Admin\Documents\UMAD 2\DSPP2\PracticaGenericoRestricciones\PracticaGenericoRestricciones\bin\Debug\netcoreapp3.1\PracticaGenericoRestricciones.dll
+C:\Users\Admin\Documents\UMAD 2\DSPP2\PracticaGenericoRestricciones\PracticaGenericoRestricciones\bin\Debug\netcoreapp3.1\PracticaGenericoRestricciones.pdb
+C:\Users\Admin\Documents\UMAD 2\DSPP2\PracticaGenericoRestricciones\PracticaGenericoRestricciones\obj\Debug\netcoreapp3.1\PracticaGenericoRestricciones.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\PracticaGenericoRestricciones\PracticaGenericoRestricciones\obj\Debug\netcoreapp3.1\PracticaGenericoRestricciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\UMAD 2\DSPP2\PracticaGenericoRestricciones\PracticaGenericoRestricciones\obj\Debug\netcoreapp3.1\PracticaGenericoRestricciones.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\PracticaGenericoRestricciones\PracticaGenericoRestricciones\obj\Debug\netcoreapp3.1\PracticaGenericoRestricciones.AssemblyInfo.cs
+C:\Users\Admin\Documents\UMAD 2\DSPP2\PracticaGenericoRestricciones\PracticaGenericoRestricciones\obj\Debug\netcoreapp3.1\PracticaGenericoRestricciones.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\PracticaGenericoRestricciones\PracticaGenericoRestricciones\obj\Debug\netcoreapp3.1\PracticaGenericoRestricciones.dll
+C:\Users\Admin\Documents\UMAD 2\DSPP2\PracticaGenericoRestricciones\PracticaGenericoRestricciones\obj\Debug\netcoreapp3.1\PracticaGenericoRestricciones.pdb
+C:\Users\Admin\Documents\UMAD 2\DSPP2\PracticaGenericoRestricciones\PracticaGenericoRestricciones\obj\Debug\netcoreapp3.1\PracticaGenericoRestricciones.genruntimeconfig.cache
