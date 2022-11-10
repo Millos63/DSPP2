@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\UMAD 2\DSPP2\ListaEnlazada\ListaEnlazada\bin\Debug\netcoreapp3.1\ListaEnlazada.exe
+C:\Users\Admin\Documents\UMAD 2\DSPP2\ListaEnlazada\ListaEnlazada\bin\Debug\netcoreapp3.1\ListaEnlazada.deps.json
+C:\Users\Admin\Documents\UMAD 2\DSPP2\ListaEnlazada\ListaEnlazada\bin\Debug\netcoreapp3.1\ListaEnlazada.runtimeconfig.json
+C:\Users\Admin\Documents\UMAD 2\DSPP2\ListaEnlazada\ListaEnlazada\bin\Debug\netcoreapp3.1\ListaEnlazada.runtimeconfig.dev.json
+C:\Users\Admin\Documents\UMAD 2\DSPP2\ListaEnlazada\ListaEnlazada\bin\Debug\netcoreapp3.1\ListaEnlazada.dll
+C:\Users\Admin\Documents\UMAD 2\DSPP2\ListaEnlazada\ListaEnlazada\bin\Debug\netcoreapp3.1\ListaEnlazada.pdb
+C:\Users\Admin\Documents\UMAD 2\DSPP2\ListaEnlazada\ListaEnlazada\obj\Debug\netcoreapp3.1\ListaEnlazada.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\ListaEnlazada\ListaEnlazada\obj\Debug\netcoreapp3.1\ListaEnlazada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\UMAD 2\DSPP2\ListaEnlazada\ListaEnlazada\obj\Debug\netcoreapp3.1\ListaEnlazada.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\ListaEnlazada\ListaEnlazada\obj\Debug\netcoreapp3.1\ListaEnlazada.AssemblyInfo.cs
+C:\Users\Admin\Documents\UMAD 2\DSPP2\ListaEnlazada\ListaEnlazada\obj\Debug\netcoreapp3.1\ListaEnlazada.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\ListaEnlazada\ListaEnlazada\obj\Debug\netcoreapp3.1\ListaEnlazada.dll
+C:\Users\Admin\Documents\UMAD 2\DSPP2\ListaEnlazada\ListaEnlazada\obj\Debug\netcoreapp3.1\ListaEnlazada.pdb
+C:\Users\Admin\Documents\UMAD 2\DSPP2\ListaEnlazada\ListaEnlazada\obj\Debug\netcoreapp3.1\ListaEnlazada.genruntimeconfig.cache
