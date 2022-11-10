@@ -4,10 +4,11 @@ C:\Users\Admin\Documents\UMAD 2\DSPP2\GenericoRestricciones\GenericoRestriccione
 C:\Users\Admin\Documents\UMAD 2\DSPP2\GenericoRestricciones\GenericoRestricciones\bin\Debug\netcoreapp3.1\GenericoRestricciones.runtimeconfig.dev.json
 C:\Users\Admin\Documents\UMAD 2\DSPP2\GenericoRestricciones\GenericoRestricciones\bin\Debug\netcoreapp3.1\GenericoRestricciones.dll
 C:\Users\Admin\Documents\UMAD 2\DSPP2\GenericoRestricciones\GenericoRestricciones\bin\Debug\netcoreapp3.1\GenericoRestricciones.pdb
-C:\Users\Admin\Documents\UMAD 2\DSPP2\GenericoRestricciones\GenericoRestricciones\obj\Debug\netcoreapp3.1\GenericoRestricciones.csprojAssemblyReference.cache
 C:\Users\Admin\Documents\UMAD 2\DSPP2\GenericoRestricciones\GenericoRestricciones\obj\Debug\netcoreapp3.1\GenericoRestricciones.AssemblyInfoInputs.cache
 C:\Users\Admin\Documents\UMAD 2\DSPP2\GenericoRestricciones\GenericoRestricciones\obj\Debug\netcoreapp3.1\GenericoRestricciones.AssemblyInfo.cs
 C:\Users\Admin\Documents\UMAD 2\DSPP2\GenericoRestricciones\GenericoRestricciones\obj\Debug\netcoreapp3.1\GenericoRestricciones.csproj.CoreCompileInputs.cache
 C:\Users\Admin\Documents\UMAD 2\DSPP2\GenericoRestricciones\GenericoRestricciones\obj\Debug\netcoreapp3.1\GenericoRestricciones.dll
 C:\Users\Admin\Documents\UMAD 2\DSPP2\GenericoRestricciones\GenericoRestricciones\obj\Debug\netcoreapp3.1\GenericoRestricciones.pdb
 C:\Users\Admin\Documents\UMAD 2\DSPP2\GenericoRestricciones\GenericoRestricciones\obj\Debug\netcoreapp3.1\GenericoRestricciones.genruntimeconfig.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\GenericoRestricciones\GenericoRestricciones\obj\Debug\netcoreapp3.1\GenericoRestricciones.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\GenericoRestricciones\GenericoRestricciones\obj\Debug\netcoreapp3.1\GenericoRestricciones.GeneratedMSBuildEditorConfig.editorconfig

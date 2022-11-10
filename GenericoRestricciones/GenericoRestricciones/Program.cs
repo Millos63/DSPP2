@@ -6,10 +6,10 @@ namespace GenericoRestricciones
     {
         static void Main(string[] args)
         {
-            CAlmacenEmpleados<CEstudiante> empleados = new CEstudiante<CEstudiante>(3);
-            empleados.agregar(new CEstudiante(7000));
-            empleados.agregar(new CEstudiante(5000));
-            empleados.agregar(new CEstudiante(4500));
+            CAlmacenEmpleados<CProfesor> empleados = new CAlmacenEmpleados<CProfesor>(3);
+            empleados.agregar(new CProfesor(7000));
+            empleados.agregar(new CProfesor(5000));
+            empleados.agregar(new CProfesor(4500));
 
         }
 

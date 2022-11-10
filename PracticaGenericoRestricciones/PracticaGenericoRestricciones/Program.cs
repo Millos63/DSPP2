@@ -29,7 +29,7 @@ namespace PracticaGenericoRestricciones
                     ventas2.agregar(new CCamion(130));
                     ventas2.agregar(new CCamion(135));
                     ventas2.agregar(new CCamion(130));
-                    break
+                    break;
            
                 case"3":
                     ventas3.agregar(new CCentralDeAbastos(180));
