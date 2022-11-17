@@ -1,0 +1,13 @@
+C:\Users\Admin\Documents\UMAD 2\DSPP2\QueueStacks\QueueStacks\bin\Debug\netcoreapp3.1\QueueStacks.exe
+C:\Users\Admin\Documents\UMAD 2\DSPP2\QueueStacks\QueueStacks\bin\Debug\netcoreapp3.1\QueueStacks.deps.json
+C:\Users\Admin\Documents\UMAD 2\DSPP2\QueueStacks\QueueStacks\bin\Debug\netcoreapp3.1\QueueStacks.runtimeconfig.json
+C:\Users\Admin\Documents\UMAD 2\DSPP2\QueueStacks\QueueStacks\bin\Debug\netcoreapp3.1\QueueStacks.runtimeconfig.dev.json
+C:\Users\Admin\Documents\UMAD 2\DSPP2\QueueStacks\QueueStacks\bin\Debug\netcoreapp3.1\QueueStacks.dll
+C:\Users\Admin\Documents\UMAD 2\DSPP2\QueueStacks\QueueStacks\bin\Debug\netcoreapp3.1\QueueStacks.pdb
+C:\Users\Admin\Documents\UMAD 2\DSPP2\QueueStacks\QueueStacks\obj\Debug\netcoreapp3.1\QueueStacks.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\QueueStacks\QueueStacks\obj\Debug\netcoreapp3.1\QueueStacks.AssemblyInfo.cs
+C:\Users\Admin\Documents\UMAD 2\DSPP2\QueueStacks\QueueStacks\obj\Debug\netcoreapp3.1\QueueStacks.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\QueueStacks\QueueStacks\obj\Debug\netcoreapp3.1\QueueStacks.dll
+C:\Users\Admin\Documents\UMAD 2\DSPP2\QueueStacks\QueueStacks\obj\Debug\netcoreapp3.1\QueueStacks.pdb
+C:\Users\Admin\Documents\UMAD 2\DSPP2\QueueStacks\QueueStacks\obj\Debug\netcoreapp3.1\QueueStacks.genruntimeconfig.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\QueueStacks\QueueStacks\obj\Debug\netcoreapp3.1\QueueStacks.csprojAssemblyReference.cache

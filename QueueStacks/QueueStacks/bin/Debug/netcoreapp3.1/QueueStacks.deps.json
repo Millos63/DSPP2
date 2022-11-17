@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "QueueStacks/1.0.0": {
+        "runtime": {
+          "QueueStacks.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QueueStacks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
