@@ -10,4 +10,5 @@ C:\Users\Admin\Documents\UMAD 2\DSPP2\QueueStacks\QueueStacks\obj\Debug\netcorea
 C:\Users\Admin\Documents\UMAD 2\DSPP2\QueueStacks\QueueStacks\obj\Debug\netcoreapp3.1\QueueStacks.dll
 C:\Users\Admin\Documents\UMAD 2\DSPP2\QueueStacks\QueueStacks\obj\Debug\netcoreapp3.1\QueueStacks.pdb
 C:\Users\Admin\Documents\UMAD 2\DSPP2\QueueStacks\QueueStacks\obj\Debug\netcoreapp3.1\QueueStacks.genruntimeconfig.cache
-C:\Users\Admin\Documents\UMAD 2\DSPP2\QueueStacks\QueueStacks\obj\Debug\netcoreapp3.1\QueueStacks.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\QueueStacks\QueueStacks\obj\Debug\netcoreapp3.1\QueueStacks.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\QueueStacks\QueueStacks\obj\Debug\netcoreapp3.1\QueueStacks.GeneratedMSBuildEditorConfig.editorconfig

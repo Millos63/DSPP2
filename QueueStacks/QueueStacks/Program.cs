@@ -15,9 +15,9 @@ namespace QueueStacks
             pila.Push("Coca-cola");
             pila.Push("Sprite");
             pila.Push("Fanta");
-            pila.Push("Pepsi");
-            pila.Push("Boing");
-            pila.Push("Gatorade");
+            //pila.Push("Pepsi");
+            //pila.Push("Boing");
+            //pila.Push("Gatorade");
 
             foreach (string bebida in pila)
             {
@@ -57,19 +57,47 @@ namespace QueueStacks
             Console.WriteLine("Presione 1 para continuar");
             Console.ReadLine();
 
-            while (cola != null)
-            {
-                
-                Console.WriteLine("El cliente:{0}, compro: {1}", cola.Peek(), pila.Peek());
-                cola.Dequeue();
-                pila.Pop();
 
-                Console.WriteLine("Presione 1 para continuar");
-                Console.ReadLine();
+            int numPersona = 0;
+            while (numPersona < cola.Count )
+            {
+                if (pila.Count > 0)
+                {
+                    Console.WriteLine("El cliente: {0}", cola.Dequeue());
+                    Console.WriteLine("Compro: {0} ", pila.Pop());
+                    Console.WriteLine("Presione 1 para continuar");
+                    Console.ReadLine();
+                }
+                if(pila.Count == 0)
+                {
+                    Console.WriteLine("------La maquina expendedora se ha quedado sin bebidas, deseas agregar mas bebidas?");
+                    Console.WriteLine("Le gustaria agregar otra bebida?, 1.Si, 2.No");
+                    leer = Console.ReadLine();
+
+                    if (leer == "1")
+                    {
+                        Console.WriteLine("Dime el nombre de la bebida");
+                        nueva = Console.ReadLine();
+                        pila.Push(nueva);
+
+                        foreach (string bebida in pila)
+                        {
+                            Console.WriteLine(bebida);
+                        }
+                    }
+                    else if (leer == "2")
+                    {
+                        numPersona = cola.Count;
+                        Console.WriteLine("Vuelva pronto ya no hay bebidas y no se agregaran mas");
+                    }
+                }               
             }
 
-            Console.WriteLine("-----No hay Clientes------");
-
+            if(cola.Count == 0)
+            {
+                Console.WriteLine("-----No hay Clientes------");
+            }
+            
 
         }
     }
