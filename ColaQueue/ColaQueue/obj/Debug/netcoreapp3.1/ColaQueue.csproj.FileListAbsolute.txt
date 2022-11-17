@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\UMAD 2\DSPP2\ColaQueue\ColaQueue\bin\Debug\netcoreapp3.1\ColaQueue.exe
+C:\Users\Admin\Documents\UMAD 2\DSPP2\ColaQueue\ColaQueue\bin\Debug\netcoreapp3.1\ColaQueue.deps.json
+C:\Users\Admin\Documents\UMAD 2\DSPP2\ColaQueue\ColaQueue\bin\Debug\netcoreapp3.1\ColaQueue.runtimeconfig.json
+C:\Users\Admin\Documents\UMAD 2\DSPP2\ColaQueue\ColaQueue\bin\Debug\netcoreapp3.1\ColaQueue.runtimeconfig.dev.json
+C:\Users\Admin\Documents\UMAD 2\DSPP2\ColaQueue\ColaQueue\bin\Debug\netcoreapp3.1\ColaQueue.dll
+C:\Users\Admin\Documents\UMAD 2\DSPP2\ColaQueue\ColaQueue\bin\Debug\netcoreapp3.1\ColaQueue.pdb
+C:\Users\Admin\Documents\UMAD 2\DSPP2\ColaQueue\ColaQueue\obj\Debug\netcoreapp3.1\ColaQueue.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\ColaQueue\ColaQueue\obj\Debug\netcoreapp3.1\ColaQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\UMAD 2\DSPP2\ColaQueue\ColaQueue\obj\Debug\netcoreapp3.1\ColaQueue.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\ColaQueue\ColaQueue\obj\Debug\netcoreapp3.1\ColaQueue.AssemblyInfo.cs
+C:\Users\Admin\Documents\UMAD 2\DSPP2\ColaQueue\ColaQueue\obj\Debug\netcoreapp3.1\ColaQueue.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\ColaQueue\ColaQueue\obj\Debug\netcoreapp3.1\ColaQueue.dll
+C:\Users\Admin\Documents\UMAD 2\DSPP2\ColaQueue\ColaQueue\obj\Debug\netcoreapp3.1\ColaQueue.pdb
+C:\Users\Admin\Documents\UMAD 2\DSPP2\ColaQueue\ColaQueue\obj\Debug\netcoreapp3.1\ColaQueue.genruntimeconfig.cache

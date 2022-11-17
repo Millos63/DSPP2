@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Colecciones2\Colecciones2\bin\Debug\netcoreapp3.1\Colecciones2.exe
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Colecciones2\Colecciones2\bin\Debug\netcoreapp3.1\Colecciones2.deps.json
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Colecciones2\Colecciones2\bin\Debug\netcoreapp3.1\Colecciones2.runtimeconfig.json
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Colecciones2\Colecciones2\bin\Debug\netcoreapp3.1\Colecciones2.runtimeconfig.dev.json
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Colecciones2\Colecciones2\bin\Debug\netcoreapp3.1\Colecciones2.dll
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Colecciones2\Colecciones2\bin\Debug\netcoreapp3.1\Colecciones2.pdb
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Colecciones2\Colecciones2\obj\Debug\netcoreapp3.1\Colecciones2.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Colecciones2\Colecciones2\obj\Debug\netcoreapp3.1\Colecciones2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Colecciones2\Colecciones2\obj\Debug\netcoreapp3.1\Colecciones2.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Colecciones2\Colecciones2\obj\Debug\netcoreapp3.1\Colecciones2.AssemblyInfo.cs
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Colecciones2\Colecciones2\obj\Debug\netcoreapp3.1\Colecciones2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Colecciones2\Colecciones2\obj\Debug\netcoreapp3.1\Colecciones2.dll
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Colecciones2\Colecciones2\obj\Debug\netcoreapp3.1\Colecciones2.pdb
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Colecciones2\Colecciones2\obj\Debug\netcoreapp3.1\Colecciones2.genruntimeconfig.cache

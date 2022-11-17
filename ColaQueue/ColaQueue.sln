@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColaQueue", "ColaQueue\ColaQueue.csproj", "{041D6C36-91F4-46DC-BAEF-1AA9C7EB38AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{041D6C36-91F4-46DC-BAEF-1AA9C7EB38AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{041D6C36-91F4-46DC-BAEF-1AA9C7EB38AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{041D6C36-91F4-46DC-BAEF-1AA9C7EB38AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{041D6C36-91F4-46DC-BAEF-1AA9C7EB38AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62C96F25-2404-49CB-8A8E-B1378EDF1D19}
+	EndGlobalSection
+EndGlobal

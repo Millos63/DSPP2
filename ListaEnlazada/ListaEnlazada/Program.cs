@@ -42,8 +42,7 @@ namespace ListaEnlazada
                 Console.WriteLine(num);
             }
 
-            
-
+           
             //Borramos la lista ligada
             numeros.Clear();
             if (numeros != null)
