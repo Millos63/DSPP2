@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Delegados\Delegados\bin\Debug\netcoreapp3.1\Delegados.exe
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Delegados\Delegados\bin\Debug\netcoreapp3.1\Delegados.deps.json
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Delegados\Delegados\bin\Debug\netcoreapp3.1\Delegados.runtimeconfig.json
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Delegados\Delegados\bin\Debug\netcoreapp3.1\Delegados.runtimeconfig.dev.json
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Delegados\Delegados\bin\Debug\netcoreapp3.1\Delegados.dll
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Delegados\Delegados\bin\Debug\netcoreapp3.1\Delegados.pdb
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Delegados\Delegados\obj\Debug\netcoreapp3.1\Delegados.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Delegados\Delegados\obj\Debug\netcoreapp3.1\Delegados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Delegados\Delegados\obj\Debug\netcoreapp3.1\Delegados.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Delegados\Delegados\obj\Debug\netcoreapp3.1\Delegados.AssemblyInfo.cs
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Delegados\Delegados\obj\Debug\netcoreapp3.1\Delegados.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Delegados\Delegados\obj\Debug\netcoreapp3.1\Delegados.dll
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Delegados\Delegados\obj\Debug\netcoreapp3.1\Delegados.pdb
+C:\Users\Admin\Documents\UMAD 2\DSPP2\Delegados\Delegados\obj\Debug\netcoreapp3.1\Delegados.genruntimeconfig.cache
